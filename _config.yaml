@@ -6,7 +6,7 @@ url: "https://gionatamettifogo.github.io/blog/" # the base hostname & protocol f
 
 # Build settings
 markdown: kramdown
-theme: Cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
